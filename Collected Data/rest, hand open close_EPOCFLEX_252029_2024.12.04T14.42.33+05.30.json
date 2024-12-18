@@ -1,0 +1,39 @@
+{
+    "Markers": [
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": null,
+        "countryOfInfluence": {
+            "iso": "",
+            "printable": ""
+        },
+        "countryOfResidence": {
+            "iso": "",
+            "printable": ""
+        },
+        "gender": "U"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-12-04T15:03:33.440+05:30",
+    "headsetType": "EPOCFLEX",
+    "mappings": {
+        "CMS": "TP9",
+        "DRL": "TP10",
+        "LA": "CP5",
+        "LC": "C3",
+        "LD": "T7",
+        "LF": "FC5",
+        "LJ": "Pz",
+        "LK": "Cz",
+        "LL": "O1",
+        "RA": "CP6",
+        "RC": "C4",
+        "RD": "T8",
+        "RF": "FC6",
+        "RL": "O2"
+    },
+    "montageType": "UNKNOWN",
+    "recordId": "042e86d0-1eda-480d-9848-9d77a8caefb8",
+    "user": "moyukhemotiv"
+}

@@ -1,0 +1,69 @@
+{
+    "Markers": [
+        {
+            "deleted": false,
+            "endDatetime": "2024-12-04T15:28:02.207983+05:30",
+            "extras": {
+            },
+            "index": 1,
+            "label": "Eyes Opened",
+            "originalEndDatetime": "2024-12-04T15:28:02.208373+05:30",
+            "originalStartDatetime": "2024-12-04T15:27:47.241057+05:30",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2024-12-04T15:27:47.238265+05:30",
+            "type": "interval",
+            "uuid": "3b89f897-5218-4a80-a206-3046e1587a27",
+            "value": 1
+        },
+        {
+            "deleted": false,
+            "endDatetime": "2024-12-04T15:28:22.240527+05:30",
+            "extras": {
+            },
+            "index": 2,
+            "label": "Eyes Closed",
+            "originalEndDatetime": "2024-12-04T15:28:22.241958+05:30",
+            "originalStartDatetime": "2024-12-04T15:28:07.225178+05:30",
+            "port": "Baseline EmotivPRO",
+            "startDatetime": "2024-12-04T15:28:07.223932+05:30",
+            "type": "interval",
+            "uuid": "b9e24ac0-b0ac-485c-ab9a-499fcd5b4a32",
+            "value": 3
+        }
+    ],
+    "connectionType": "dongle",
+    "demographics": {
+        "birthday": null,
+        "countryOfInfluence": {
+            "iso": "",
+            "printable": ""
+        },
+        "countryOfResidence": {
+            "iso": "",
+            "printable": ""
+        },
+        "gender": "U"
+    },
+    "exportApp": "com.emotiv.emotivpro",
+    "exportTime": "2024-12-04T16:10:45.929+05:30",
+    "headsetType": "EPOCFLEX",
+    "mappings": {
+        "CMS": "TP9",
+        "DRL": "TP10",
+        "LA": "CP5",
+        "LC": "C3",
+        "LD": "T7",
+        "LF": "FC5",
+        "LJ": "Pz",
+        "LK": "Cz",
+        "LL": "O1",
+        "RA": "CP6",
+        "RC": "C4",
+        "RD": "T8",
+        "RF": "FC6",
+        "RL": "O2"
+    },
+    "montageType": "UNKNOWN",
+    "recordId": "85420f28-de91-446b-bf74-724f4e4af38f",
+    "user": "moyukhemotiv"
+}
